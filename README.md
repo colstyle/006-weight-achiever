@@ -2,13 +2,15 @@
 
 # 体重一键记录(成就版)
 
-> “就算只轻了一两，也是通往神坛的一大步。” —— 正在疯狂心理暗示中 🚀
+> “就算只轻了一两，也是辉煌的一跃。” —— 正在激励中 🚀
 
-![100APP计划](https://img.shields.io/badge/100%20APP%20计划-006%20%2F%20100-10b981?style=for-the-badge&logo=rocket)
-![技术栈](https://img.shields.io/badge/Stack-Next.js%20%7C%20Tauri%202%20%7C%20Capacitor-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![平台](https://img.shields.io/badge/Platform-Web%20%7C%20Windows%20%7C%20Android-10b981?style=for-the-badge)
+![100APP计划](https://img.shields.io/badge/100%20APP%20计划-006%20%2F%20100-10b981?style=flat-square&logo=rocket)
+![作者](https://img.shields.io/badge/作者-小石谈什么记-blueviolet?style=flat-square)
+![版本](https://img.shields.io/badge/版本-1.0.0-blue?style=flat-square)
+![平台](https://img.shields.io/badge/平台-Web%20%7C%20Windows%20%7C%20Android-brightgreen?style=flat-square)
+![技术栈](https://img.shields.io/badge/技术栈-Next.js%20%2B%20Tauri%202%20%2B%20Capacitor-blueviolet?style=flat-square)
 
-[✨ 立即查看源码](https://github.com/colstyle/006-weight-achiever) · [🎬 演示视频](#) · [🛠️ 问题反馈](https://github.com/colstyle/006-weight-achiever/issues)
+> 🚀 **100 APP 量产计划** 第 006 个作品 · 就算轻了一两，也是辉煌的一跃 · 作者：[小石谈什么记](#)
 
 </div>
 
