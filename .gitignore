@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+src-tauri/target/
+*.exe
+*.apk
+*.msi
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+.env*
+.DS_Store

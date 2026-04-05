@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.aiprojects.weight-achiever_CAP',
+  appId: 'com.aiprojects.weightachiever',
   appName: '体重一键记录(成就版)',
   webDir: 'out',
   server: { androidScheme: 'https' },
