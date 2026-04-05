@@ -1,0 +1,3 @@
+[build]
+# 共享编译缓存，避免文件锁冲突
+target-dir = "E:\\AIProjects\\.rust\\target"
